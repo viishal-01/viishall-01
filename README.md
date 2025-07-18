@@ -54,7 +54,7 @@ I explore the future through AI, Web3, and emerging technologies, always aiming 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)  
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter)](https://twitter.com/your-handle)  
-✉️ Email: yourname@example.com
+✉️ Email: vishal@thecodingstudio.in
 
 ---
 
