@@ -1,14 +1,24 @@
 <h1 align="center">👋 Hi, I'm Vishal Vishwakarma</h1>
 
 <p align="center">
-  🚀 Full-Stack Developer • 🤖 AI Enthusiast • 🧠 Tech Explorer  
+  🚀 Full-Stack Developer • 🤖 AI Enthusiast • 🌐 Web3 Explorer  
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm passionate about building efficient, scalable applications and exploring the limitless world of AI and ML. From full-stack web apps to cutting-edge AI experiments, I love transforming ideas into real-world solutions.
+I'm a passionate Full-Stack Developer focused on building efficient, scalable applications — from intuitive frontends to powerful backends.  
+I explore the future through AI, Web3, and emerging technologies, always aiming to turn bold ideas into real-world impact.
+
+---
+
+### 💼 What I Do
+
+- 🧱 Building robust full-stack apps using modern frameworks
+- 🌐 Exploring the decentralized web and Web3 tools
+- 🧠 Diving into AI/ML models and intelligent systems
+- ⚙️ Constantly learning and improving through side projects and collaboration
 
 ---
 
@@ -24,38 +34,28 @@ I'm passionate about building efficient, scalable applications and exploring the
 #### ☁️ Cloud & Platforms:
 `Firebase` `Google Cloud` `Google Workspace` `AWS`
 
-#### 🛠️ Currently Exploring:
-- 🧠 **Artificial Intelligence / Machine Learning**
-- 📡 **WebRTC**
-- 🖥️ **Remote control web applications**
-
----
-
-### 🤝 Let's Build Something Amazing
-
-I'm always excited to collaborate on innovative projects and explore new technologies.
-
-📫 **Reach out:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter)](https://twitter.com/your-handle)  
-✉️ Email: yourname@example.com
+#### 🌱 Currently Exploring:
+- 🧠 **AI / Machine Learning**
+- 🌐 **Web3 & decentralized technologies**
+- 📡 **WebRTC & remote access systems**
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalvishwakarma&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalvishwakarma&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-### 🧑‍💻 Featured Projects
+### 📫 Let's Connect
 
-Coming soon...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)  
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter)](https://twitter.com/your-handle)  
+✉️ Email: yourname@example.com
 
 ---
 
-> *“Code is not just lines — it’s logic, language, and a little bit of love.”* ❤️
-
+> *“Code is not just logic — it’s language, impact, and a little bit of magic.”* ✨
