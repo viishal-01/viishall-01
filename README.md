@@ -44,8 +44,8 @@ I explore the future through AI, Web3, and emerging technologies, always aiming 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalvishwakarma&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalvishwakarma&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viishall-01&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viishall-01&theme=tokyonight" width="48%" />
 </p>
 
 ---
